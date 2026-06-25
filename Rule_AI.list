@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,bing.com
 
 DOMAIN-SUFFIX,civitai.com
 DOMAIN-KEYWORD,civitai
+DOMAIN-SUFFIX,civitai.red
+DOMAIN-KEYWORD,civitai
 
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
