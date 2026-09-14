@@ -8,11 +8,6 @@
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
 
-DOMAIN-SUFFIX,civitai.com
-DOMAIN-KEYWORD,civitai
-DOMAIN-SUFFIX,civitai.red
-DOMAIN-KEYWORD,civitai
-
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
