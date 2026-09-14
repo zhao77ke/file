@@ -3,6 +3,7 @@
 # DOMAIN-KEYWORD,openai
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
+# DOMAIN-KEYWORD,kkrich
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
@@ -11,6 +12,8 @@ DOMAIN-SUFFIX,civitai.com
 DOMAIN-KEYWORD,civitai
 DOMAIN-SUFFIX,civitai.red
 DOMAIN-KEYWORD,civitai
+DOMAIN-SUFFIX,kkrich.ltd
+DOMAIN-KEYWORD,kkrich
 
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
